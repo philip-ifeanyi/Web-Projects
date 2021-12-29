@@ -1,0 +1,13 @@
+#what .items .item {
+  display: flex;
+  text-align: left;
+}
+
+#what .items .item i {
+  align-self: center;
+  margin-right: 2rem;
+}
+
+#contact .map {
+  flex:  2;
+}
